@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/java-deserialize.iml" filepath="$PROJECT_DIR$/.idea/java-deserialize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaDeserialize.iml" filepath="$PROJECT_DIR$/JavaDeserialize.iml" />
     </modules>
   </component>
 </project>

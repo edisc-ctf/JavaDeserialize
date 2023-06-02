@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="commons-collections-3.2.1-1.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/commons-collections-3.2.1-1.0.0.jar/commons-collections-3.2.1-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/commons-collections-3.2.1-1.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-collections-3.2.1-1.0.0.jar/commons-collections-3.2.1-1.0.0.jar!/" />
+    </SOURCES>
+  </library>
+</component>
